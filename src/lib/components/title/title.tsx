@@ -13,7 +13,7 @@ function Title({ title }: Props) {
         <Home size={24} />
       </Link>
       {title}
-      <a href="https://github.com/sadanandpai/algo-visualizers" target="blank">
+      <a href="https://github.com/Nikhilsingh2003?tab=overview&from=2022-12-01&to=2022-12-31" target="blank">
         <img
           src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
           alt="github repo"
